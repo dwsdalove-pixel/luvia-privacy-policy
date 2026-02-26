@@ -1,1 +1,1 @@
-# luvia-privacy-policy
+# loviaAI-privacy-policy
